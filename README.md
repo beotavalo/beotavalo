@@ -1,4 +1,4 @@
-### About Me
+#### About Me
 
 I'm Braulio from Ecuador, a Data Scientist working to build applications based on AI, ML, and DL for the industry.
 
@@ -14,16 +14,11 @@ _Programming:_
     R, Stata, SQL
     HTML, CSS, javascript
     ```
-##Skills
-    MLOps Tools & Frameworks: Kubeflow, MLflow, Airflow, DVC, CI/CD pipelines (e.g., Jenkins, GitLab CI/CD)
-    Cloud Platforms: AWS SageMaker, Google Cloud AI Platform, Azure Machine Learning
-    Version Control: Git
-    Programming Languages: Python (including libraries like NumPy, Pandas, scikit-learn, TensorFlow, PyTorch)
-    DevOps Practices: Infrastructure as Code (IaC) tools (e.g., Terraform), containerization (Docker)
+   
 
 _Cloud Platforms:_ 
 
-AWS, Azure, Docker, Kubernetes,
+```AWS, Azure, GCP```
 
 _MLOps Tools & Frameworks:_ 
 
@@ -38,13 +33,14 @@ _Computer Vision:_
 OpenCV, PIL, Torchvision, Albumentations, MMCV, Detectron2, YOLO, Vision Transformer
 
 _Data Visualization:_
-
-Power BI, Tableau, Plotly, Looker, Dash
+```Power BI, Tableau, Plotly, Looker, Dash```
 
 _Version Control:_
 
 Git, github
 
+_DevOps Practices:_ 
+```Docker, Kubernetes, Terraform```
      
 **Experience**
 
