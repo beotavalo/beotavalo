@@ -1,4 +1,4 @@
-**About Me**
+### About Me
 
 I'm Braulio from Ecuador, a Data Scientist working to build applications based on AI, ML, and DL for the industry.
 
@@ -8,9 +8,12 @@ I am proficient in various tools and frameworks to ensure seamless integration o
 **Skills**
 
 _Programming:_ 
+
+    ```
     Python (NumPy, Pandas, scikit-learn, TensorFlow, PyTorch)
     R, Stata, SQL
-    HTML, CSS, javascript,
+    HTML, CSS, javascript
+    ```
 ##Skills
     MLOps Tools & Frameworks: Kubeflow, MLflow, Airflow, DVC, CI/CD pipelines (e.g., Jenkins, GitLab CI/CD)
     Cloud Platforms: AWS SageMaker, Google Cloud AI Platform, Azure Machine Learning
