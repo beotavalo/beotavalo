@@ -31,3 +31,5 @@ Modeling PCA as a non-linear optimization problem with equality and inequalities
 **Education**
 - MSc in Artificial Intelligence, University of Southampton, UK, 2020
 - BSc in Electronics, EPN, Ecuador, 2014
+
+[![Braulio's GitHub stats](https://github-readme-stats.vercel.app/api?username=beotavalo)](https://github.com/anuraghazra/github-readme-stats)
