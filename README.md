@@ -1,29 +1,20 @@
 #### About Me
 
-I'm Braulio from Ecuador, a Data Scientist with experience building, deploying, and monitoring machine learning pipelines.
-
-I am proficient in various tools and frameworks to ensure seamless integration of models into production environments.
+I'm Braulio from Ecuador, a Data Scientist with experience building, deploying, and monitoring machine learning pipelines. I am proficient in various tools and frameworks to ensure seamless integration of models into production environments.
 
 **Skills**
 
 _Programming:_ 
 
     ```
-    Python (NumPy, Pandas, scikit-learn, TensorFlow, PyTorch)
+    Python (NumPy, Pandas, scikit-learn, TensorFlow, PyTorch, OpenCV, PIL, Torchvision, Albumentations, MMCV, YOLO)
     R, Stata, SQL
     HTML, CSS, javascript
     ```
    
-
 _Cloud Platforms:_ ```AWS, Azure, GCP```
 
-_Web mapping & Geo Data Science:_ ```Google Earth Engine, Q-GIS, PySAL, Leafmap, Leaflet, Mapbox, GeoPandas```
-
-_Computer Vision:_ ``` OpenCV, PIL, Torchvision, Albumentations, MMCV, YOLO ```
-
 _Data Visualization:_ ``` Power BI, Tableau, Plotly, Looker, Dash```
-
-_Version Control:_ ``` Git, github ```
 
 _MLOps Tool:_ ```Docker, Kubernetes, Terraform, Kubeflow, MLflow, Airflow```
      
@@ -39,5 +30,5 @@ Modeling PCA as a non-linear optimization problem with equality and inequalities
 ```
 
 **Education**
-```- MSc in Artificial Intelligence, University of Southampton, UK, 2020
-- BSc in Electronics, EPN, Ecuador, 2014```
+- MSc in Artificial Intelligence, University of Southampton, UK, 2020
+- BSc in Electronics, EPN, Ecuador, 2014
