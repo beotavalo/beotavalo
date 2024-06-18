@@ -1,8 +1,6 @@
 #### About Me
 
-I'm Braulio from Ecuador, a Data Scientist working to build applications based on AI, ML, and DL for the industry.
-
-I am a passionate DS consultant with experience building, deploying, and monitoring machine learning pipelines.
+I'm Braulio from Ecuador, a Data Scientist with experience building, deploying, and monitoring machine learning pipelines.
 
 I am proficient in various tools and frameworks to ensure seamless integration of models into production environments.
 
