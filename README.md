@@ -18,32 +18,27 @@ _Programming:_
 
 _Cloud Platforms:_ ```AWS, Azure, GCP```
 
-_MLOps Tools & Frameworks:_ ```Kubeflow, MLflow, Airflow, DVC, CI/CD pipelines (e.g., Jenkins, GitLab CI/CD)```
+_Web mapping & Geo Data Science:_ ```Google Earth Engine, Q-GIS, PySAL, Leafmap, Leaflet, Mapbox, GeoPandas```
 
-_Web mapping & Geo Data Science:_ ```Google Earth Engine, Planetary Computer, ArcGIS/ESRI, Q-GIS, PySAL, Leafmap, Leaflet, Mapbox, GeoPandas```
-
-_Computer Vision:_ ``` OpenCV, PIL, Torchvision, Albumentations, MMCV, Detectron2, YOLO, Vision Transformer ```
+_Computer Vision:_ ``` OpenCV, PIL, Torchvision, Albumentations, MMCV, YOLO ```
 
 _Data Visualization:_ ``` Power BI, Tableau, Plotly, Looker, Dash```
 
 _Version Control:_ ``` Git, github ```
 
-_DevOps Practices:_ ```Docker, Kubernetes, Terraform```
+_MLOps Tool:_ ```Docker, Kubernetes, Terraform, Kubeflow, MLflow, Airflow```
      
 **Experience**
 
-Data Scientist Consultant - Short-Term Consultant (feb 2024 - jun 2024)
-
-World Bank Group
+Data Scientist Consultant, World Bank Group, Short-Term Consultant (Feb 2024 - Jun 2024)
 
 _Key Activities:_ 
 ```
 Developing web applications for infrastructure project prioritization tools based on the World Bank’s Infrastructure Prioritization Framework.
 Replicating buffer and zonal statistic analysis based on geospatial data of the projects.
-Solving Principal Component Analysis is modeled as a non-linear optimization problem with equality and inequalities as constraints for project prioritization.
+Modeling PCA as a non-linear optimization problem with equality and inequalities as constraints for project prioritization.
 ```
 
 **Education**
-
-- MSc in Artificial Intelligence, University of Southampton, UK, 2020
-- BSc in Electronics, EPN, Ecuador, 2014
+```- MSc in Artificial Intelligence, University of Southampton, UK, 2020
+- BSc in Electronics, EPN, Ecuador, 2014```
