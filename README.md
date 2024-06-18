@@ -39,11 +39,9 @@ World Bank Group
 _Key Activities:_ 
 ```
 Developing web applications for infrastructure project prioritization tools based on the World Bank’s Infrastructure Prioritization Framework.
-Postgres and PostGIS database design and implementation.
-Replicating calculations to get the Social-Environmental Index (SEI) and Financial-Economic Index (FEI) for every infrastructure project.
 Replicating buffer and zonal statistic analysis based on geospatial data of the projects.
 Solving Principal Component Analysis is modeled as a non-linear optimization problem with equality and inequalities as constraints for project prioritization.
-Creating data visualization dashboards using Plotly, Leaflet, Leafmap, and Chart.js ```
+```
 
 **Education**
 
