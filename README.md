@@ -16,31 +16,19 @@ _Programming:_
     ```
    
 
-_Cloud Platforms:_ 
+_Cloud Platforms:_ ```AWS, Azure, GCP```
 
-```AWS, Azure, GCP```
+_MLOps Tools & Frameworks:_ ```Kubeflow, MLflow, Airflow, DVC, CI/CD pipelines (e.g., Jenkins, GitLab CI/CD)```
 
-_MLOps Tools & Frameworks:_ 
+_Web mapping & Geo Data Science:_ ```Google Earth Engine, Planetary Computer, ArcGIS/ESRI, Q-GIS, PySAL, Leafmap, Leaflet, Mapbox, GeoPandas```
 
-MLFlow, Kubeflow, MLflow, Airflow, DVC, CI/CD pipelines (e.g., Jenkins, GitLab CI/CD)
+_Computer Vision:_ ``` OpenCV, PIL, Torchvision, Albumentations, MMCV, Detectron2, YOLO, Vision Transformer ```
 
-_Web mapping & Geo Data Science:_
+_Data Visualization:_ ``` Power BI, Tableau, Plotly, Looker, Dash```
 
-Google Earth Engine, Planetary Computer, ArcGIS/ESRI, Q-GIS, PySAL, Leafmap, Leaflet, Mapbox, GeoPandas
+_Version Control:_ ``` Git, github ```
 
-_Computer Vision:_ 
-
-OpenCV, PIL, Torchvision, Albumentations, MMCV, Detectron2, YOLO, Vision Transformer
-
-_Data Visualization:_
-```Power BI, Tableau, Plotly, Looker, Dash```
-
-_Version Control:_
-
-Git, github
-
-_DevOps Practices:_ 
-```Docker, Kubernetes, Terraform```
+_DevOps Practices:_ ```Docker, Kubernetes, Terraform```
      
 **Experience**
 
