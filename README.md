@@ -11,6 +11,12 @@ _Programming:_
     Python (NumPy, Pandas, scikit-learn, TensorFlow, PyTorch)
     R, Stata, SQL
     HTML, CSS, javascript,
+##Skills
+    MLOps Tools & Frameworks: Kubeflow, MLflow, Airflow, DVC, CI/CD pipelines (e.g., Jenkins, GitLab CI/CD)
+    Cloud Platforms: AWS SageMaker, Google Cloud AI Platform, Azure Machine Learning
+    Version Control: Git
+    Programming Languages: Python (including libraries like NumPy, Pandas, scikit-learn, TensorFlow, PyTorch)
+    DevOps Practices: Infrastructure as Code (IaC) tools (e.g., Terraform), containerization (Docker)
 
 _Cloud Platforms:_ 
 
