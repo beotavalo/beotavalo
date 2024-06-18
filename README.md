@@ -7,16 +7,15 @@ I'm Braulio from Ecuador, a Data Scientist with experience building, deploying, 
 _Programming:_ 
 
     ```
-    Python (NumPy, Pandas, scikit-learn, TensorFlow, PyTorch, OpenCV, PIL, Torchvision, Albumentations, MMCV, YOLO)
-    R, Stata, SQL
+    Python, R, SQL
     HTML, CSS, javascript
     ```
-   
-_Cloud Platforms:_ ```AWS, Azure, GCP```
+    
+_Cloud & MLOps Tool:_ ```
+AWS, Azure, GCP
+Docker, Kubernetes, Terraform, Kubeflow, MLflow, Airflow ```
 
 _Data Visualization:_ ``` Power BI, Tableau, Plotly, Looker, Dash```
-
-_MLOps Tool:_ ```Docker, Kubernetes, Terraform, Kubeflow, MLflow, Airflow```
      
 **Experience**
 
