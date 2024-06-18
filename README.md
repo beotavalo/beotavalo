@@ -36,7 +36,7 @@ Data Scientist Consultant - Short-Term Consultant (feb 2024 - jun 2024)
 
 World Bank Group
 
-_Activities:_
+_Key Activities:_ ```
 
  - Developing web applications for infrastructure project prioritization tools based on the World Bank’s Infrastructure Prioritization Framework.
 
@@ -48,7 +48,7 @@ _Activities:_
 
  - Solving Principal Component Analysis is modeled as a non-linear optimization problem with equality and inequalities as constraints for project prioritization.
 
- - Creating data visualization dashboards using Plotly, Leaflet, Leafmap, and Chart.js
+ - Creating data visualization dashboards using Plotly, Leaflet, Leafmap, and Chart.js ```
 
 **Education**
 
