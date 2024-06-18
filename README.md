@@ -8,12 +8,9 @@ I am proficient in various tools and frameworks to ensure seamless integration o
 **Skills**
 
 _Programming:_ 
-
-Python (NumPy, Pandas, scikit-learn, TensorFlow, PyTorch)
-
-R, Stata, SQL
-
-HTML, CSS, javascript,
+    Python (NumPy, Pandas, scikit-learn, TensorFlow, PyTorch)
+    R, Stata, SQL
+    HTML, CSS, javascript,
 
 _Cloud Platforms:_ 
 
