@@ -12,7 +12,7 @@ _Programming:_
     ```
     
 _Cloud & MLOps Tool:_ ```
-AWS, Azure, GCP
+AWS, Azure, GCP,
 Docker, Kubernetes, Terraform, Kubeflow, MLflow, Airflow ```
 
 _Data Visualization:_ ``` Power BI, Tableau, Plotly, Looker, Dash```
