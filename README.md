@@ -22,25 +22,14 @@ Docker, Kubernetes, Terraform, Kubeflow, MLflow, Airflow ```
 _Data Visualization:_ ``` Power BI, Tableau, Plotly, Looker, Dash```
 
 #### Find Me:
-<details open>
-  <summary> My  Profiles: </summary>
-   <table>
-     <tr>
-       <td> <a href="https://www.linkedin.com/in/botavalo/"> Linkedin </a></td>
-       <td> <a href="https://medium.com/@botavalo"> Medium </a></td>       
-       <td> <a href="https://leetcode.com/u/botavalo/"> Leetcode </a></td>
-       <td> <a href="https://www.hackerrank.com/profile/braulio_otavalo"> HackerRank </a></td>
-       <td> <a href="https://www.kaggle.com/brauliootavalo"> Kaggle </a></td>
-     </tr>
-     <tr>
-<td><img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white"/><br></td>
-<td><img alt="Medium Badge" src="https://img.shields.io/badge/Medium-%23000000?logo=medium&logoColor=white"/><br></td>
-<td><img alt="LeetCode Badge" src="https://img.shields.io/badge/LeetCode-%23FFA116?logo=leetcode&logoColor=white"/><br></td>
-<td><img alt="HackerRank Badge" src="https://img.shields.io/badge/HackerRank-%232EC866?logo=hackerrank&logoColor=white"/><br></td>
-<td><img alt="Kaggle Badge" src="https://img.shields.io/badge/Kaggle-%23096bff?logo=kaggle&logoColor=white"/><br></td>
-     </tr>
-  </table>
-</details>
+
+My  Profiles:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/botavalo/)
+[![Medium](https://img.shields.io/badge/Medium-%23000000?logo=medium&logoColor=white)](https://medium.com/@botavalo)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%23096bff?logo=kaggle&logoColor=white)](https://www.kaggle.com/brauliootavalo)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/braulio_otavalo)
+[![Leetcode](https://img.shields.io/badge/LeetCode-%23FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/botavalo/)
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">  
