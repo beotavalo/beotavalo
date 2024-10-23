@@ -23,7 +23,7 @@ _Data Visualization:_ ``` Power BI, Tableau, Plotly, Looker, Dash```
 
 #### Find Me:
 <details open>
-  <summary> 🔦 Profiles: </summary>
+  <summary> My  Profiles: </summary>
    <table>
      <tr>
        <td> <a href="https://www.linkedin.com/in/botavalo/"> Linkedin </a></td>
