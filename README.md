@@ -10,10 +10,10 @@ ML | Computer Vision | Generative AI | MLaaS
 
 _Programming:_ 
 
-    ```
+    
     Python, R, SQL
     HTML, CSS, javascript
-    ```
+    
     
 _Cloud & MLOps Tool:_ ```
 AWS, Azure, GCP,
