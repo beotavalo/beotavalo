@@ -30,6 +30,7 @@ My  Profiles:
 [![Kaggle](https://img.shields.io/badge/Kaggle-%23096bff?logo=kaggle&logoColor=white)](https://www.kaggle.com/brauliootavalo)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/braulio_otavalo)
 [![Leetcode](https://img.shields.io/badge/LeetCode-%23FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/botavalo/)
+[![StrataScratch](https://img.shields.io/badge/StrataScratch-0b9a93)](https://botavalo.com/)
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">  
