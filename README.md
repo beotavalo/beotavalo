@@ -2,7 +2,7 @@
 
 Braulio Otavalo
 
-Data Scientist with experience building, deploying, and monitoring ML/DS pipelines. 
+Data Scientist with experience building, deploying and monitoring ML/DS pipelines. 
 
 ML | Computer Vision | Generative AI | MLaaS
 
