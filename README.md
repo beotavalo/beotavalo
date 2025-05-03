@@ -2,9 +2,9 @@
 
 Braulio Otavalo
 
-Data Scientist with experience building, deploying and monitoring ML/DS pipelines. 
+ML Engineer with experience building, deploying and monitoring ML/DS pipelines. 
 
-ML | Computer Vision | Generative AI | MLaaS
+ML | Computer Vision | Generative AI | Data Science
 
 **Skills**
 
@@ -50,10 +50,6 @@ My  Profiles:
     <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/logos/wordmark_1.png" alt="airflow" width="40" height="40"/> 
 </a></p>
-
-#### Github Stats:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beotavalo)](https://github.com/beotavalo/github-readme-stats) 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beotavalo&" alt="beotavalo" /></p>
 
