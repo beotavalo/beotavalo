@@ -50,7 +50,3 @@ My  Profiles:
     <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/logos/wordmark_1.png" alt="airflow" width="40" height="40"/> 
 </a></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beotavalo&" alt="beotavalo" /></p>
-
-[![HitCount](http://hits.dwyl.com/beotavalo/beotavalo.svg)](http://hits.dwyl.com/beotavalo/beotavalo)
