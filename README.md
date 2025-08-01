@@ -2,7 +2,7 @@
 
 Braulio Otavalo
 
-ML Engineer with experience building, deploying and monitoring ML/DS pipelines. 
+AI/ML Engineer with experience building, deploying and monitoring ML/DS pipelines. 
 
 ML | Computer Vision | Generative AI | Data Science
 
